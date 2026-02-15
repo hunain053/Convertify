@@ -460,7 +460,7 @@ document.getElementById("brandLink").addEventListener("click", (e) => {
 
   // Navigate after fade completes
   setTimeout(() => {
-    window.location.href = "../index.html";
+    window.location.href = "/";
   }, 200);
 });
 
@@ -497,7 +497,7 @@ if (brandLink) {
 
     // Navigate after fade completes
     setTimeout(() => {
-      window.location.href = "../index.html";
+      window.location.href = "/";
     }, 800);
   });
 }
