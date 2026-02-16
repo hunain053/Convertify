@@ -1,4 +1,4 @@
-# 🚀 Convertify
+# 🚀 PixShift
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
@@ -6,7 +6,7 @@
 ![Client-Side](https://img.shields.io/badge/Processing-Client--Side-green)
 ![License](https://img.shields.io/badge/License-MIT-purple)
 
-Convertify is a privacy-first, browser-based image converter that processes files entirely on your device.  
+PixShift is a privacy-first, browser-based image converter that processes files entirely on your device.  
 No uploads. No tracking. No server interaction.
 
 > Your files. Your device. Always.
@@ -53,7 +53,7 @@ No uploads. No tracking. No server interaction.
 
 ## 🔐 Privacy
 
-Convertify runs entirely in the browser.  
+PixShift runs entirely in the browser.  
 Files never leave your device.  
 No data is collected or stored.
 
@@ -69,4 +69,4 @@ This project was built to create a simple, fast, and privacy-focused alternative
 
 This project is licensed under the MIT License.
 
-© 2026 Convertify
+© 2026 PixShift
